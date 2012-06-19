@@ -1,3 +1,4 @@
 function example(arg1, arg2, arg3) {
-    alert(arg1);
+	var newOne = arg1 + arg2;
+    alert(newOne);
 }
